@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "644038196152",
+    "project_id": "flashchat-foytingo",
+    "storage_bucket": "flashchat-foytingo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644038196152:android:6307f73a253e40b780ed4d",
+        "android_client_info": {
+          "package_name": "com.foytingo.flash_chat_foytingo_v2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "644038196152-47k1g8j2fqn38ojcgclcfstlatcbckks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgGvEvpSqlXEb_pF0SB6cy0Qg9pwPjhsA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "644038196152-47k1g8j2fqn38ojcgclcfstlatcbckks.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
